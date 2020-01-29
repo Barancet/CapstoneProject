@@ -5,6 +5,14 @@
 The files contained in this repository will serve as the ***living document*** of the Team Mills capstone project. This living document will outline
 our project and the current progress we have made towards a fully finished production application.
 
+## Deliverable 1: Project Proposal
+- ~~Client Profile~~
+- Team Profile
+- System Vision
+- Existing System Description
+- Context Diagram
+- System Feasibility and Risks
+
 ## Current Coding Standards for Team Mills
 
 ### General Coding Standards
