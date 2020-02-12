@@ -6,12 +6,18 @@ The files contained in this repository will serve as the ***living document*** o
 our project and the current progress we have made towards a fully finished production application.
 
 ## Deliverable 1: Project Proposal
-- ~~Client Profile~~
-- Team Profile
-- System Vision
-- Existing System Description
-- Context Diagram
-- System Feasibility and Risks
++ ~~Client Profile~~
++ ~~Team Profile~~
++ ~~System Vision~~
++ ~~Existing System Description~~
++ ~~Context Diagram~~
++ ~~System Feasibility and Risks~~
+
+## Deliverable 2: Project Requirements
++ Proposed System Contex Diagram
++ Use Case Diagram
++ Domain Class Diagram
++ System Security Requirements
 
 ## Current Coding Standards for Team Mills
 
