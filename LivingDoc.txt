@@ -1,1 +1,118 @@
-Living Doc txt version
+ 
+LA BREHANDAISE PROJECT
+Deliverable 1: Living Project Document
+
+ 
+Table of Contents
+Supplemental Project Information	2
+General Coding Standards	2
+Client Profile	3
+Team Profile	4
+System Vision	5
+Existing System Description	5
+Primary Stakeholders and Descriptions	5
+Feasible Risks	6
+Scope:	6
+Schedule:	6
+Security Risks:	6
+Operational/Technical Risks:	6
+Economic Risks:	7
+La Brehandaise’s Current System	8
+Environmental Scan	8
+How Our Project is Different	9
+Context Diagram	9
+High Level System Architecture	10
+
+ 
+# La Brehandaise Catering
+# Client Profile
+La Brehandaise Catering is a small business based in Richmond Hill that has been operating since 2008. The catering is prepared for corporate functions, and private events which can scale from small to large all around the Greater Toronto Area. Customer Satisfaction is important for La Brehandaise and maintaining friendly relationships with their customers is a top priority.
+The cuisine is inspired by French style but can be accommodated with any flavor and taste to meet the customer’s expectations resulting in sensational culinary quality at your event.
+The company recently opened an inhouse store and lounge to also provide fresh cooked meals daily.
+# Vision:
+The team’s vision is to serve their customers dishes that are simple yet delicious that have a “taste before everything” with reasonable pricing. Every single meal is prepared and cooked on the spot with fresh and natural ingredients of the highest quality.
+# Values:
+The main principles are – Simple, Affordable and Tasty. Simple for reaching customer expectations with attention to details and serve with excellence. Affordable because they will bring the best quality to price ratio. And Tasty because of their well-experienced chefs in culinary sensation.
+# More about the team
+Pierre is the store manager and will be our main contact for gathering information and setting up meetings with. Pascal, the lead chef manager of the team and is responsible for preparing top quality goods. Martial, is the executive chef and is also creating masterpiece work for their customers.
+The team has a very busy schedule, always preparing and sending off meals. They have a convenient store location in Richmond Hill, so they also have to manage their store and customers as well.
+ 
+
+
+Team Profile
+# Baran Cetin – 3rd year Systems Analyst Student from Sheridan College with a background data analysis and web programming from my previous co-op placements. He has a solid fundamental understanding of system design and programming concepts but also enjoys building web/mobile applications. Prior to this program he was working as a junior consultant at an accounting software solutions company called Sandham Adams which used Microsoft Dynamics 365 - Business Central as their platform.
+
+# Garrett Hofland - 3rd year Systems Analyst student from Sheridan college with experience in web technologies and log tracking. With work experience at Rogers Communications, he has a strong foundation in working through projects from start to finish, negotiating between both business team members and developers to deliver complete products.
+
+# Jonathan Czupryna – 3rd year Systems Analyst Student from Sheridan College with networking and administration from previous co-op.  In high school I have solid fundamentals in coding due to my 3 semesters of coding in high school, and I also have a great understanding of design a SQL database and managing it with a project I made at my last co-op.
+
+# Saher Gill – 3rd year Systems Analyst Student from Sheridan College with database administration and system security experience from previous work placements. Using his experiences from Region of Peel as a Service Desk Analyst, Saher is able to understand and identify issues based on information provided by clients. He has built strong skills in database administration and security through his co-op placement at SCI Group. With these skills, Saher will be able to assist in delivering a high quality and fully functioning product.
+
+
+
+
+
+
+
+# System Vision
+La Brehandaise catering, just as the name suggests, is primarily a catering business. La Brehandaise catering is trying to expand their business into a local restaurant where people can order in person or place orders online. The primary issue is the lack of an ordering system since their current website is still only focused on displaying catering services.
+La Brehandaise catering is currently looking for a system that would allow customers to order food online for pickup or delivery. They also host cooking training sessions, which they want users to be able to register for. This will help them in expanding the reach of their business by allowing local customers to order or register from the convenience of their own homes.
+Our proposed system will have both the desired functionalities built into their site, with a dashboard to administrate the site. The dashboard will allow La Brehandaise to manage their menu, cooking lessons, and online orders, as well as update the calendar. We will also create a mobile app to allow customers to view everything on the website and place orders, but with the convenience of an app. We will integrate a weekly newsletter that customers can sign up for to keep up to date on La Brehandaise catering.
+## Existing System Description
+Primary Stakeholders and Descriptions 
++ Customer
+Customers come in three categories, customers purchasing items in the front of store, customers who are looking for catering services, and customers that want to participate in cooking classes
++ Pierre-Yvon Poilbout 
+- Store manager, delivery driver and primary business contact
++ Pascal Poilbout 
+- Head chef and owner
++ Martial Poilbout 
+- Executive chef
++ IT Consultant and Web Designer 
+- Designed and maintains the website as it stands in its current form
+
+# Feasible Risks
+## Scope:
+## Gathering requirements is a very important step and should be properly analyzed and understood before continuing to the next steps of the project. Possible scope risks could involve misunderstanding user requirements and adding wrong features to the product that were not approved. Some examples of this can be group members taking on a task that they are not able to complete. Some of the requirements that we may gather could be harder to implement based on unfamiliarity with the topic. For example, the payments processing feature is a process we must learn for this project.
+Schedule:
+## Scheduling is a difficult but manageable area for projects. We must meet deadlines and push material incrementally with a reasonably organized project schedule to ensure the project stays moving. Pushing deadlines further could lag the project and result in conflict in scheduling issues and uncertainty down the line. An example is when there is a holiday coming up and the company would be getting overloaded with orders and not able to complete them within the required time. A schedule issue from our teams’ side could be not completing a set of tasks within a listed deadline. Since the shop owners and staff are always busy it might be hard to set up meetings always.
+## Security Risks:
+We are advancing at incredible speeds; technology is constantly changing and a lot of the data we work with is ending up on the internet. For that reason, online security is a growing industry because of the increased threats targeting those who are unaware of the methods of ‘attacking’. As a team it is important for us to be educated and aware of these threats and avoid flaws by using well-known secure reliable practices when developing the system for La Brehandaise. It is important to incorporate security as it will ensure transaction integrity and confidentiality which will lead to more potential customers.
+## Operational/Technical Risks:
+Who would be the main technical support contact if required when we graduate? This could pose risks for them as there could be issues later down the road.
+They have a good relationship with their current IT contact who has designed their current template website.
+For that reason, it would be appropriate that we cooperate with him, gather information about the company’s current web hosting services and other details in order to plan for future changes on their website.
+Also, is there a possibility we create a system from scratch and integrate it with their site. This could be a risk because we need to figure out the best possible architecture and design to put this all together.
+Long term support is another example of feasibility risk. Maintenance and monitoring the system are important steps to ensuring the project is healthy.
+## Economic Risks:
+When graduating, the maintenance fees must be considered for support when the system must undergo change.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## La Brehandaise’s Current System
+	La Brehandaise Catering’s current system only facilitates walk-in customers and customers with access to the weekly newsletter sent out by the Store Manager, Pierre. For a walk-in customer, they purchase any food or beverages like a normal café and complete their transaction in the store. The other way a customer can purchase an item, done through the newsletter sent by email, is by replying to the email or by calling in to the store with what product are interested in and what day they would like the product delivered. The order is prepared the day of the order for most products, excluding items like soups which are made in bulk and frozen. These orders are then fulfilled every weekday between 17:00 and 18:00 by a member of the staff delivering the order to the customer.
+Environmental Scan
+Shopify
+	### Shopify is a Canadian e-commerce company. It provides a proprietary platform to create online stores and retail point-of-sale systems. Shopify only provides its services through a subscription model that starts at $29USD/month up to $299USD/month, on top of this, they charge for every transaction at on average 2.5% + 30₵. The store front and payments are additionally hosted with the company’s regular website, so if the subscription ends, access to the website would be closed until the subscription is started again. In addition, Shopify has a proprietary language for its website creation which does not always mix well with additional web frameworks.
+SquareUp
+	### SquareUp runs on the same subscription model as Shopify and applies similar charges to the transactions that are made through its e-commerce services. The plans are a little bit less expensive than Shopify, except under the more expensive tiers of subscription. For a business the number of tools available to a store are limited unless they are actively subscribed to the most expensive tier, and if not subscribed to that tier it is not possible to use a custom domain name and SquareUp will run their own banner ads on a company’s website.
+
+
+
+## How Our Project is Different
+	Our online ordering system will differentiate itself from the current systems available for purchase on the market in a few important aspects. First, our application will not be charging a subscription fee for the creation of the site, and we will not be taking a percentage of the sales that this system processes for each transaction. Although the charges for all transactions on an e-commerce system are usually on the smaller side, for example 2% for all Shopify purchases, they can significantly impact the bottom line of a business depending on their margins and can quickly add up when added on to an already expensive subscription model. Another aspect in which our project differentiates from current systems available for purchase right now is that it will not be one-size fits all. We will be offering our services to La Brehandaise to build a fully proprietary system that will fit exactly the needs of our client. Where often e-commerce sites come with different tiers or bundles, that lead to a customer paying for more features than they want or can utilize. In addition, some of the most crucial features for a small company such as search engine optimization (SEO), custom orders and customer interaction are locked behind higher tiers of payment that can quickly cause the cost of running a website to get out of hand. During our meeting La Brehandaise, they did voice concern over the price of competitors in the marketplace and our team is confident that we will be able to implement the features requested by our project sponsor, without the same cost of subscription. Our team would be able to facilitate this by bypassing the subscription model of modern e-commerce companies and by providing a ground-up approach to the development of their e-commerce system. 
+Context Diagram
+ 
+ 
