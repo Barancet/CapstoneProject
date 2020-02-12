@@ -1,3 +1,4 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json) [![Coverage](https://img.shields.io/badge/Deliverables-60%25-important)](https://img.shields.io/badge/Deliverables-60%25-important)
 # **Team Mills Capstone Project La Brehandaise Catering**
 
 ## Project Description
@@ -5,7 +6,7 @@
 The files contained in this repository will serve as the ***living document*** of the Team Mills capstone project. This living document will outline
 our project and the current progress we have made towards a fully finished production application.
 
-## Deliverable 1: Project Proposal [![Inline docs](https://img.shields.io/badge/Progress-Deliverable%20is%20completed-success)](https://img.shields.io/badge/Progress-Deliverable%20is%20completed-success)
+## Deliverable 1: Project Proposal [![Inline deliverable1](https://img.shields.io/badge/Progress-Deliverable%20is%20completed-success)](https://img.shields.io/badge/Progress-Deliverable%20is%20completed-success)
 + ~~Client Profile~~
 + ~~Team Profile~~
 + ~~System Vision~~
@@ -13,7 +14,7 @@ our project and the current progress we have made towards a fully finished produ
 + ~~Context Diagram~~
 + ~~System Feasibility and Risks~~
 
-## Deliverable 2: Project Requirements [![Inline docs](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)
+## Deliverable 2: Project Requirements [![Inline deliverable2](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)
 + Proposed System Contex Diagram
 + Use Case Diagram
 + Domain Class Diagram
