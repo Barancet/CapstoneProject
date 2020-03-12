@@ -14,7 +14,7 @@ our project and the current progress we have made towards a fully finished produ
 + ~~Context Diagram~~
 + ~~System Feasibility and Risks~~
 
-## Deliverable 2: Project Requirements [![Inline deliverable2](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)
+## Deliverable 2: Project Requirements [![Inline deliverable2](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)](https://img.shields.io/badge/Progress-Planning%20is%20completed-success)
 + ~~Proposed System Contex Diagram~~
 + ~~Use Case Diagram~~
 + ~~Domain Class Diagram~~
