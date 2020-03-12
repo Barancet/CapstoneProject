@@ -21,7 +21,7 @@ our project and the current progress we have made towards a fully finished produ
 + ~~System Security Requirements~~
 
 ## Sprint 1 : Update and Delete From Product Database
-+ ~~Configure remote NOSQL server in Mongodb
++ ~~Configure remote NOSQL server in Mongodb~~
 + ~~Test .NET core drivers and BSON document creation~~
 + Create first application
 + Finish Diagrams
