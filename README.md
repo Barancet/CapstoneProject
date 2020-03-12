@@ -15,10 +15,19 @@ our project and the current progress we have made towards a fully finished produ
 + ~~System Feasibility and Risks~~
 
 ## Deliverable 2: Project Requirements [![Inline deliverable2](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)](https://img.shields.io/badge/Progress-Planning%20is%20completed-important)
-+ Proposed System Contex Diagram
-+ Use Case Diagram
-+ Domain Class Diagram
-+ System Security Requirements
++ ~~Proposed System Contex Diagram~~
++ ~~Use Case Diagram~~
++ ~~Domain Class Diagram~~
++ ~~System Security Requirements~~
+
+## Sprint 1 : Update and Delete From Product Database
++ ~~Configure remote NOSQL server in Mongodb
++ ~~Test .NET core drivers and BSON document creation~~
++ Create first application
++ Finish Diagrams
++ Finish Wireframes
++ Complete story board
+
 
 ## Current Coding Standards for Team Mills
 
@@ -39,3 +48,7 @@ If (x == y) {
 10.	Comments should be concise and should provide context to the current system’s implementation
 
 ### Framework and Language Specific Coding Standards
++ Don't alter with the current mongodb configuration
++ Notify the team when you are connected remotely to the server
++ Properly close your connection to lower load on the server
++ Use your specific user account when connected remotely to the server
